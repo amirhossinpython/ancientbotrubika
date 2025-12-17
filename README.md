@@ -32,5 +32,5 @@
 3. فایل `bot.py` یا محل تعریف متغیرها را باز کنید و مقادیر زیر را جایگزین کنید:
 
 ```python
-TOKEN = "توکن ربات شما از BotFather"
-API_KEY = "کلید API شما از Liara"
+token = "توکن ربات شما از BotFather"
+apikye = "کلید API شما از Liara"
